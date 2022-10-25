@@ -1,34 +1,30 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Computer Science"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Web-Development"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Graphics-Design"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Information Technology"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Digital-Marketing"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Cyber Security"
     },
     {
       "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "All Subject"
     }
   ]

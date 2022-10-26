@@ -1,26 +1,52 @@
 [
     {
       "id": "01",
-      "name": "Computer Science"
+      "author": "Tamy Chapman",
+      "name": "UI/UX DESIGN",
+      "rating":"5.00",
+      "author_img":"https://media.istockphoto.com/photos/confident-young-man-in-casual-green-shirt-looking-away-standing-with-picture-id1324558913?k=20&m=1324558913&s=612x612&w=0&h=U0XYpDKe9XqHgZGvjgo98poEC_20QO-UePiNY8_87jI=",
+    "img": "https://media.istockphoto.com/photos/website-designer-creative-planning-application-developer-development-picture-id1206638576?b=1&k=20&m=1206638576&s=170667a&w=0&h=NxHnlT5fVqBEVAPmM8Me77cC6JCLZrTFYlnI6VYyeXE="
     },
     {
       "id": "02",
-      "name": "Web-Development"
+      "author": "Dana Saito",
+      "name":  "COMPUTER NETWORK",
+      "rating":"4.89",
+      "author_img":"https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+      "img":"https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__340.jpg"
     },
-    {
-      "id": "03",
-      "name": "Graphics-Design"
-    },
+    
     {
       "id": "04",
-      "name": "Digital-Marketing"
+      "author": "Brad Gilpin",
+      "rating":"5.00",
+      "name":  "MICROPROCESSOR",
+      "author_img":"https://media.istockphoto.com/photos/young-professor-picture-id610021016?k=20&m=610021016&s=612x612&w=0&h=z8D8uPDjzPZzvGl2NLUL924CERD3kL3GERxzmiJkJoo=",
+      "img": "https://cdn.pixabay.com/photo/2019/10/23/09/25/board-4570995__340.jpg"
+    },
+    
+    {
+      "id": "03",
+      "name": "JAVASCRIPT",
+      "author": " John Doe",
+      "rating":"5.00",
+      "author_img":"https://media.istockphoto.com/photos/portrait-of-confident-caucasian-male-teacher-in-classroom-picture-id515264678?k=20&m=515264678&s=612x612&w=0&h=CA_SJX9Jc8-76KqwV60LcFD3CLRMQG8KSA9lImVrd8k=",
+      "img": "https://media.istockphoto.com/photos/paper-width-word-javascript-and-laptop-glasses-and-coffee-on-wooden-picture-id1272412780?k=20&m=1272412780&s=612x612&w=0&h=j9v_8NrxAASxKPdJD0eDFqXwoNjBq-ijRKWMzalmWOk="
     },
     {
       "id": "05",
-      "name": "Cyber Security"
+      "name": "NODE JS", 
+      "author": "Andrew Ng",
+      "rating":"5.00",
+      "author_img":"https://media.istockphoto.com/photos/math-teacher-in-the-classroom-picture-id1358852926?k=20&m=1358852926&s=612x612&w=0&h=J7tbkoVSpEDRH601ZMVL6eJSepl-F2pcS2-FOZVT-Uc=",
+      "img": "https://media.istockphoto.com/photos/nodejs-inscription-against-laptop-and-code-background-picture-id1347542592?k=20&m=1347542592&s=612x612&w=0&h=nILigttTHwiYwHHbhqWsn9aAV3uE5z4vaq5KobX_bBA="
     },
     {
       "id": "06",
-      "name": "All Subject"
+      "author": "Kevin Dorsey",
+      "name":  "MACHINE LEARNING",
+      "rating":"5.00",
+      "author_img":"https://media.istockphoto.com/photos/smiling-male-ceo-posing-alone-in-modern-office-picture-id1219224632?k=20&m=1219224632&s=612x612&w=0&h=K0XmWDhZkA-P1L4rrrKUFPnWn_5mHraCMHf8Oc17yYg=",
+      "img": "https://cdn.pixabay.com/photo/2020/05/07/18/25/tech-5142625__340.jpg"
     }
   ]
